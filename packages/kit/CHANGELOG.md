@@ -1,5 +1,12 @@
 # @sveltejs/kit
 
+## 1.0.0-next.141
+
+### Patch Changes
+
+- 4435a659: [fix] allow endpoint shadowing to work
+- ee73a265: [fix] correctly do fallthrough in simple case
+
 ## 1.0.0-next.140
 
 ### Patch Changes
